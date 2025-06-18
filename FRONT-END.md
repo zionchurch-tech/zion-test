@@ -28,6 +28,9 @@ Você pode usar NextAuth para gerenciar a sessão e deixar 2 usuários "hard-cod
 
 > Permitir que os usuários comentem nas postagens. Os comentários também devem ser atualizados em tempo real.
 
+🔥 #### POWER UP
+
+**Você se destarará se implementar um Backend com Node.js (Express / Nest.js / Bun) integrado ao front-end com o Websocket e registro em Banco de Dados / CDN 100% funcional.**
 
 --------------
 
