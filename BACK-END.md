@@ -1,3 +1,84 @@
+# Desafio Back-End | Zion Church
+
+### Objetivo do Desafio: 
+
+Desenvolver uma aplicação web de "comunidade zion church" onde os membros da comunidade possam criar e visualizar postagens, interagir com comentários e visualizar um feed de notícias em tempo real. O foco é avaliar habilidades de desenvolvimento com JavaScript, autenticação, integração com Websockets e boas práticas de código.
+
+### Descrição do Projeto:
+
+Você deve criar uma aplicação web que permita aos usuários da Zion Church interagirem de maneira simples e intuitiva, conforme as funcionalidades descritas abaixo:
+
+--------------
+
+
+### 🗒️ User Story:
+> Como membro da comunidade Zion Church, quero poder criar uma conta, acessar um feed de postagens, interagir (curtir/comentar), enviar mensagens em tempo real para outros membros,
+para que eu possa me conectar, compartilhar experiências e fortalecer minha fé junto à comunidade.
+
+
+--------------
+
+
+### 🔍 Detalhes do escopo do projeto:
+
+
+#### 1. Login e Registro:
+
+Crie os endpoints necessários para o usuário se registrar, fazer login na plataforma e fazer reset de senha. Pense em uma autenticação simples utilizando e-mail e senha. 
+
+> Você pode usar uma lib para Auth e para gerenciar a sessão, como Supabase / Firebase / Cognito, etc.
+**Você se destacará se implementar Auth0 com Google ou Facebook**
+
+
+#### 2. Feed de Postagens (Real-time):
+
+
+> Exibir um feed com as postagens mais recentes de todos os usuários. Cada postagem deve exibir o nome do autor, conteúdo do post, e a data/hora da postagem. O feed deve ser atualizado em tempo real usando Websockets quando novos posts forem adicionados.
+
+
+#### 3. Criação e Reação em Postagens:
+
+> Permitir que o usuário autenticado crie novas postagens com um campo de texto. As postagens devem aparecer automaticamente no feed sem necessidade de recarregar a página.
+
+> Permitir que os usuários comentem nas postagens. Os comentários também devem ser atualizados em tempo real.
+
+### 🔥 POWER UP
+
+**Você se destarará se implementar um Backend com Node.js (Express / Nest.js / Bun) integrado ao front-end com o Websocket e registro em Banco de Dados / CDN 100% funcional.**
+
+--------------
+
+### Requisitos técnicos:
+
+1. Next.js
+2. Autenticação (com NextAuth e provider de auth)
+3. Websockets
+4. Estado Global (ContextAPI)
+5. Estilização com Tailwind CSS ou StyledComponents
+6. Boas Práticas
+
+--------------
+
+### Critérios de Avaliação:
+
+1. Qualidade do Código
+2. Funcionalidade
+3. Experiência do Usuário
+4. Uso de Websockets
+5. Documentação (README)
+
+--------------
+
+
+### Layout do Figma:
+
+https://www.figma.com/design/BkomH2qiwzoXDw8lRtIf2Z/Untitled?node-id=3-39&t=NnN1AKAHkVdpNLtD-1
+
+
+
+
+
+
 ## Desafio Técnico – Desenvolvedor(a) Back-End  
 **Plataforma Zion Global – Comunidade Cristã**
 
