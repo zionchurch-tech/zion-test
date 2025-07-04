@@ -58,5 +58,4 @@ Você pode usar NextAuth para gerenciar a sessão e deixar 2 usuários "hard-cod
 
 ### Layout do Figma:
 
-https://www.figma.com/design/BkomH2qiwzoXDw8lRtIf2Z/Untitled?node-id=3-39&t=NnN1AKAHkVdpNLtD-1
-
+https://www.figma.com/design/BkomH2qiwzoXDw8lRtIf2Z/Teste---ZION-DEVELOPER?node-id=3-39&p=f&t=Lov4WrpFvqTsV9EN-0
