@@ -107,4 +107,4 @@ Não é obrigatório, mas você se destarará se implementar endpoints necessár
 
 Você conseguirá entender a aplicação, fluxo de telas e contratos de API através do Figma abaixo:
 
-[https://www.figma.com/design/BkomH2qiwzoXDw8lRtIf2Z/Untitled?node-id=3-39&t=NnN1AKAHkVdpNLtD-1](https://www.figma.com/design/BkomH2qiwzoXDw8lRtIf2Z/Teste---ZION-DEVELOPER?node-id=486-426&p=f&t=Lov4WrpFvqTsV9EN-0)
+https://www.figma.com/design/BkomH2qiwzoXDw8lRtIf2Z/Teste---ZION-DEVELOPER?node-id=486-622&t=Lov4WrpFvqTsV9EN-1
